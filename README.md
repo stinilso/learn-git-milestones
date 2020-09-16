@@ -94,9 +94,6 @@ You should be able to ...
 - [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
 <<<<<<< HEAD
 - [x] In Atom, edit this README file and add your *third* favorite emoji here: **🤩**
-=======
-- [x] In Atom, edit this README file and add your *third* favorite emoji here: **??**
->>>>>>> 4ee35565766fb3146f3cd002e7a14b78618dd21c
 - [x] Create a new file `hello.txt`, add some text and save it.
 - [x] Display the Git panel (click the small Git button at the bottom right).
 
