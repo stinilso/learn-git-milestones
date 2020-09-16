@@ -82,25 +82,25 @@ You should have a basic familiarity with the command line in case you need to do
   - [x] [Confirm](https://docs.github.com/en/github/using-git/setting-your-username-in-git) your name and email is correct in the Git config
   - [x] View the status of your repo: `git status`
   - [x] View the changed files of your repo: `git diff`
-  - [ ] Add all changed files to the staging area `git add .`
-  - [ ] View the status of your repo `git status` to confirm it has been staged
-  - [ ] Commit your changes with the message `commit #3 from CLI`
-  - [ ] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
+  - [x] Add all changed files to the staging area `git add .`
+  - [x] View the status of your repo `git status` to confirm it has been staged
+  - [x] Commit your changes with the message `commit #3 from CLI`
+  - [x] Use `git push` to [push those changes to your remote repo](https://docs.github.com/en/github/using-git/pushing-commits-to-a-remote-repository)
 
 
 ### Git in Atom
 You should be able to ...
 
-- [ ] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
-- [ ] In Atom, edit this README file and add your *third* favorite emoji here: **??**
-- [ ] Create a new file `hello.txt`, add some text and save it.
-- [ ] Display the Git panel (click the small Git button at the bottom right).
+- [x] In Github Desktop, open this repo [learn-git-milestones](https://github.com/omundy/learn-git-milestones) in Atom: Repository > Open in Atom  
+- [x] In Atom, edit this README file and add your *third* favorite emoji here: **??**
+- [x] Create a new file `hello.txt`, add some text and save it.
+- [x] Display the Git panel (click the small Git button at the bottom right).
 
 ![atom-git-menu](img/atom-git-menu.png)
 
-- [ ] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
-- [ ] Double click on each file with changes to stage them  
-- [ ] Commit your changes directly to the master branch with the message `commit #4 from Atom`
+- [x] Select on your file(s) in Unstaged changes and confirm your changes match what you expect to see
+- [x] Double click on each file with changes to stage them  
+- [x] Commit your changes directly to the master branch with the message `commit #4 from Atom`
 
 
 
@@ -109,31 +109,31 @@ You should be able to ...
 Now that we have basic Git commands out of the way use Git to create and turn in your DIG 245 assignment ...
 
 
-- [ ] In Github Desktop, create a new repository ...
-  - [ ] Name: `dig245-a1`
-  - [ ] Local Path: Click "Choose" and create a new folder `dig245-a1` inside the `critical-web-design` folder you made above
-  - [ ] Click Create Repository
-  - [ ] This should now be your class folder's directory structure.
+- [x] In Github Desktop, create a new repository ...
+  - [x] Name: `dig245-a1`
+  - [x] Local Path: Click "Choose" and create a new folder `dig245-a1` inside the `critical-web-design` folder you made above
+  - [x] Click Create Repository
+  - [x] This should now be your class folder's directory structure.
   ```
   critical-web-design
     |-- dig245-a1
     |-- learn-git-milestones
   ```
-- [ ] Open your new repository in Atom (with Github Desktop or drag the `dig245-a1` project folder into Atom)
-  - [ ] Add a README file: `README.md`
-  - [ ] In the README write your name and the date
-  - [ ] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-- [ ] Complete Assignment 1
-  - [ ] Create a file called `index.html` in your repo
-  - [ ] See the instructions in [Assignment 1](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
-  - [ ] Test your file in a web browser
-  - [ ] Commit and push the files to Github
-- [ ] Set up a [Github page](https://pages.github.com/) "project site" for your repo
-  - [ ] Choose "Project site"
-  - [ ] Do not use a theme. Start from scratch
-  - [ ] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
-  - [ ] Visit your project site at http://*username*.github.io/dig245-a1
-  - [ ] Paste this link into the appropriate Moodle forum
+- [x] Open your new repository in Atom (with Github Desktop or drag the `dig245-a1` project folder into Atom)
+  - [x] Add a README file: `README.md`
+  - [x] In the README write your name and the date
+  - [x] Use some [Markdown tags](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
+- [x] Complete Assignment 1
+  - [x] Create a file called `index.html` in your repo
+  - [x] See the instructions in [Assignment 1](https://docs.google.com/document/d/17U_zmzM_eML_qkG0PaOdDRcEk3YEmbiQ1TyNnbAM08k/edit)
+  - [x] Test your file in a web browser
+  - [x] Commit and push the files to Github
+- [x] Set up a [Github page](https://pages.github.com/) "project site" for your repo
+  - [x] Choose "Project site"
+  - [x] Do not use a theme. Start from scratch
+  - [x] In your repository settings, scroll aaaaallllll the way down to the Github Pages section, select the master branch source and click save
+  - [x] Visit your project site at http://*username*.github.io/dig245-a1
+  - [x] Paste this link into the appropriate Moodle forum
 
 
 ## Git Fluency
